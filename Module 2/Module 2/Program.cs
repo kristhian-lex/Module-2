@@ -15,7 +15,7 @@ namespace Module_2
 
         public override string ToString()
         {
-            return $"ID: {Id}, Name: {Name}, Position: {Position}, Salary: {Salary:C}";
+            return $"ID: {Id}, Name: {Name}, Position: {Position}, Salary: {Salary}";
         }
     }
 
